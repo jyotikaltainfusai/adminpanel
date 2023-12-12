@@ -1,0 +1,25 @@
+.action-wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.action-icon{
+    cursor: pointer;
+}
+
+.btn_div{
+    /* border: 2px solid green; */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.add_btn{
+    /* border: 2px solid yellow; */
+    background: blue;
+    color: white;
+    height: 45px;
+    width: 15%;
+    border-radius: 12px;
+    outline: none;
+}
